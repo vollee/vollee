@@ -1,0 +1,4 @@
+[serviceweaver]
+name = "vollee"
+binary = "./vollee"
+rollout = "1m"
